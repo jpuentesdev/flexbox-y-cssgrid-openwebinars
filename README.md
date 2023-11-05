@@ -2,7 +2,7 @@
 
 ## 📖 Este repositorio es de carácter formativo.
 
-* ¡Bienvenido/a al repositorio del [Curso de Flexbox y CSS Grid de OpenWebinars](https://openwebinars.net/academia/portada/flexbox-css-grid/). Aquí podrás encontrar mis avances y proyectos relacionados con el curso, mientras busco fortalecer mis bases de CSS.
+* ¡Bienvenido/a al repositorio del [Curso de Flexbox y CSS Grid de OpenWebinars](https://openwebinars.net/academia/portada/flexbox-css-grid/){:target="_blank"}. Aquí podrás encontrar mis avances y proyectos relacionados con el curso, mientras busco fortalecer mis bases de CSS.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
